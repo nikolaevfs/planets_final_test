@@ -1,2 +1,12 @@
-package org.example.repository;public interface PlanetRepository {
+package org.example.repository;
+
+import org.example.entity.Planet;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface PlanetRepository extends JpaRepository<Planet, Long> {
+    Planet getPlanetById(Long id);
+
+    Planet getPlanetByName(String name);
 }

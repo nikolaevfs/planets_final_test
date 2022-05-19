@@ -1,24 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a28dd2e-f3b8-4247-a159-29cbc8004e96" name="Changes" comment="" />
+    <list default="true" id="8a28dd2e-f3b8-4247-a159-29cbc8004e96" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PlanetsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PlanetsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/LordController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/LordController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/PlanetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/PlanetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dto/AssignmentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dto/AssignmentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dto/LordDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dto/LordDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dto/PlanetDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dto/PlanetDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Lord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Lord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/LordRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/LordRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/PlanetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/PlanetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/LordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/LordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/PlanetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/PlanetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/LordServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/LordServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/PlanetServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/PlanetServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/validation/ApiError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/validation/ApiError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/validation/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/validation/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/requests/LordTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/requests/LordTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/requests/PlanetTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/requests/PlanetTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/unit/PlanetServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/unit/PlanetServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/validation/ValidationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/validation/ValidationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29LND20jXl341bgMKOceiQr1TSJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/test/planets/src/main",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files",
+    "spring.configuration.checksum": "f4ebb228cedc38a86b9e60ec64484492"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "H2"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\planets\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.org.example in planets">
+    <configuration name="PlanetServiceTests.assignNotExistingPlanet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="planets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.unit" />
+      <option name="MAIN_CLASS_NAME" value="org.example.unit.PlanetServiceTests" />
+      <option name="METHOD_NAME" value="assignNotExistingPlanet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanetServiceTests.assignPlanetExistingLord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="planets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.unit" />
+      <option name="MAIN_CLASS_NAME" value="org.example.unit.PlanetServiceTests" />
+      <option name="METHOD_NAME" value="assignPlanetExistingLord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanetServiceTests.assignPlanetToNotExistingLord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="planets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.unit" />
+      <option name="MAIN_CLASS_NAME" value="org.example.unit.PlanetServiceTests" />
+      <option name="METHOD_NAME" value="assignPlanetToNotExistingLord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanetTests.addingExistingPlanet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="planets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.requests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.requests.PlanetTests" />
+      <option name="METHOD_NAME" value="addingExistingPlanet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example in planets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="planets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanetsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="planets" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.PlanetsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.org.example in planets" />
+        <item itemvalue="JUnit.PlanetServiceTests.assignNotExistingPlanet" />
+        <item itemvalue="JUnit.PlanetServiceTests.assignPlanetExistingLord" />
+        <item itemvalue="JUnit.PlanetServiceTests.assignPlanetToNotExistingLord" />
+        <item itemvalue="JUnit.PlanetTests.addingExistingPlanet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,7 +191,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652888285967</updated>
+      <workItem from="1652888288691" duration="20894000" />
+      <workItem from="1652915099046" duration="11016000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="freeLords.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

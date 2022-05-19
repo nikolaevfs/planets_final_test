@@ -1,2 +1,15 @@
-package org.example.dto;public class PlanetDto {
+package org.example.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.validation.constraints.NotBlank;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class PlanetDto {
+    @NotBlank(message = "shouldn't be blank")
+    private String name;
 }
